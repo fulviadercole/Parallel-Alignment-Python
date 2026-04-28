@@ -35,7 +35,7 @@ The script processes the matrix diagonal by diagonal:
 
 1. Clone the repository: 
    ```bash
-   git clone [https://github.com/fulviadercole/Parallel-Alignment-Python.git](https://github.com/fulviadercole/Parallel-Alignment-Python)
+   git clone [https://github.com/fulviadercole/Parallel-Alignment-Python.git]
 2. Run the script:
    ```bash
    python alignment_script.py
